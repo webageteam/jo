@@ -1,8 +1,8 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
+description: "I will take you on the fabulous world of job exploration"
+
 favicon: 'assets/images/logo.png'
  
 baseurl: "/jo"
