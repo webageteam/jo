@@ -11,15 +11,15 @@ Micro Focus Freshers Recruitment 2022: From mainframe to mobile, we have the por
 
 <b>Company: Micro Focus
 
-Website: Micro Focus
+**Website**: Micro Focus
 
-Wikipedia: Micro Focus Wiki
+**Wikipedia:** Micro Focus Wiki
 
-Job Profile: Software Engineer
+**Job Profile:** Software Engineer
 
-Degree Needed: B.E/B.Tech
+**Degree Needed:** B.E/B.Tech
 
-Passout Year: 2019/2020/2021
+**Passout Year:** 2019/2020/2021
 
 Work Location: Bangalore
 
