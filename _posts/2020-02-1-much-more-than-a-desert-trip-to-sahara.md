@@ -9,7 +9,7 @@ image: assets/images/16.jpg
 Micro Focus Freshers Recruitment 2022: From mainframe to mobile, we have the portfolio depth and breadth to cover challenges across DevOps, Hybrid IT, Security & Risk, and Predictive Analytics. We are a pure-play software company focused from the ground up on building, selling, and supporting software. This focus allows us to deliver on our mission to put customers at the center of innovation and deliver high-quality, enterprise-grade scalable software that our teams can be proud of. We help customers bridge the old and the new by maximizing the ROI on existing software investments and enabling innovation in the new hybrid model for enterprise IT.
 
 
-Company: Micro Focus
+<b>Company: Micro Focus
 
 Website: Micro Focus
 
@@ -27,7 +27,7 @@ Exp Needed: Freshers
 
 Salary: Best In Industry
 
-Jobs By Location And Passout Year:
+Jobs By Location And Passout Year: </b>
 
 <h2>Requirements:</h2>
 
