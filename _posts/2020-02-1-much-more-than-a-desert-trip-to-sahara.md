@@ -27,7 +27,8 @@ Exp Needed: Freshers
 
 Salary: Best In Industry
 
-Jobs By Location And Passout Year: </b>
+Jobs By Location And Passout Year: 
+</b>
 
 <h2>Requirements:</h2>
 
