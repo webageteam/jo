@@ -21,14 +21,12 @@ Micro Focus Freshers Recruitment 2022: From mainframe to mobile, we have the por
 
 **Passout Year:** 2019/2020/2021
 
-Work Location: Bangalore
+**Work Location:** Bangalore
 
-Exp Needed: Freshers
+**Exp Needed: Freshers**
 
-Salary: Best In Industry
+**Salary:** Best In Industry
 
-Jobs By Location And Passout Year: 
-</b>
 
 <h2>Requirements:</h2>
 
