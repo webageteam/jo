@@ -37,6 +37,7 @@
         font-weight: 300;
         font-size: 1.1em;
       }
+      
       amp-story-grid-layer.bottom {
         align-content:end;
       }
@@ -46,6 +47,12 @@
       amp-story-grid-layer.center-text {
         align-content: center;
       }
+      amp-img.apps{
+
+        filter: blur(80px);
+       -webkit-filter: blur(80px)
+      }
+    
       .wrapper {
         display: grid;
         grid-template-columns: 50% 50%;
@@ -67,10 +74,9 @@
         publisher-logo-src="assets/lo.png">
       <amp-story-page id="cover">
         <amp-story-grid-layer template="fill">
-          <amp-img src="assets/app.png"
+          <amp-img src="assets/app.png" class="apps"
               width="720" height="1280"
-              layout="responsive" filter: blur(80px);
-              -webkit-filter: blur(80px);>
+              layout="responsive" >
           </amp-img>
         </amp-story-grid-layer>
         <amp-story-grid-layer template="vertical">
@@ -113,8 +119,7 @@
         <amp-story-grid-layer template="fill">
           <amp-img src="assets/proud.png"
               width="720" height="1280"
-              layout="responsive" filter: blur(8px);
-              -webkit-filter: blur(8px);
+              layout="responsive"
             >
           </amp-img>
         </amp-story-grid-layer>
